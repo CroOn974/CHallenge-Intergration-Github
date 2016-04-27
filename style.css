@@ -1,0 +1,15 @@
+h2{
+  text-align: center;
+}
+
+.titre{
+  background-color: grey;
+}
+
+.decallage{
+  margin-top: 20px;
+}
+
+.produit img{
+  padding-bottom: 15px;
+}
