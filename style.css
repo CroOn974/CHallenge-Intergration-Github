@@ -1,15 +1,27 @@
-h2{
+nav {
+  background-color: #7c2c8a;
+}
+
+nav a {
+  color: gray;
+}
+
+nav ul li a {
+  color: gray;
+  text-decoration: none;
+}
+
+body h2 {
   text-align: center;
+  color: #7c2c8a;
 }
 
-.titre{
-  background-color: grey;
-}
+.titre {}
 
-.decallage{
+.decallage {
   margin-top: 20px;
 }
 
-.produit img{
+.produit img {
   padding-bottom: 15px;
 }
